@@ -3,7 +3,7 @@ Test Dumbways Phase 1 Technical Test
 
 
 Tutorial Instalasi :
-1. Import terlebih dahulu database ke xampp. (file ada di dalam folder "databases")
+1. Buat Database dengan nama "technical_test" lalu import file sql ke dalam database menggunakan xampp. (file database terdapat di dalam folder "databases")
 2. Setelah berhasil diimport tinggal kita ketikan url localhost/sesuai_namafoldernya
 3. Selesai
 
